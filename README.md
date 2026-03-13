@@ -152,9 +152,9 @@ Uma empresa deseja informatizar o controle de suas ordens de serviço, registran
 
 **Entregáveis desta etapa:**
 
-- [Script de criação do banco e tabelas]()
-- [Script de população de dados]()
-- [Script consultas]()
+- [Script de criação do banco e tabelas](https://github.com/kaiquesouzasantoss/uninter-bdr-company/blob/main/projeto/create.sql)
+- [Script de população de dados](https://github.com/kaiquesouzasantoss/uninter-bdr-company/blob/main/projeto/insert.sql)
+- [Script consultas](https://github.com/kaiquesouzasantoss/uninter-bdr-company/blob/main/projeto/query.sql)
 
 ---
 
