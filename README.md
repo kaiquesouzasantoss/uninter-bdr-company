@@ -1,11 +1,10 @@
 <h1 align="center">BANCO DE DADOS RELACIONAL</h1>
 
 <p align="center">
-  <img src="uninter-logo.png" width="500" alt="UNINTER" />
+  <img src="https://raw.githubusercontent.com/kaiquesouzasantoss/uninter-poo-piggybank/refs/heads/main/uninter-logo.png" width="500" alt="UNINTER" />
 </p>
 
----
-
+#
 ## Sobre 
 
 Repositório do trabalho semestral da disciplina <strong>Banco de Dados Relacional (BDR)</strong> — UNINTER, 2026. Projeto com foco em <strong>Modelagem (MER)</strong> e <strong>Implementação SQL</strong> em <strong>MySQL</strong>, dividido em:
